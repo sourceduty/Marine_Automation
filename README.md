@@ -18,6 +18,9 @@ Marine automation is the integration of advanced technologies to enhance the ope
 Key concepts in marine automation include situational awareness, data integration, and human-machine collaboration. Situational awareness involves using sensors and AI-driven systems to monitor the vessel's environment, such as weather conditions, traffic patterns, and obstacles, to make informed decisions. Data integration plays a crucial role in combining information from IoT devices, onboard systems, and external sources to provide a comprehensive view of the ship's operations. Furthermore, human-machine collaboration ensures that automation supports rather than replaces crew activities, enabling operators to focus on critical decision-making tasks. These concepts are integral to the development of advanced systems like autonomous vessels, digital twins for maritime assets, and smart port operations, revolutionizing how the maritime industry approaches efficiency and innovation.
 
 #
+![Modern Stealth Warship Design](https://github.com/user-attachments/assets/4f914f7e-3503-4eac-9c63-5080247ddf68)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
