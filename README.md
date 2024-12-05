@@ -1,4 +1,4 @@
-![Underwater Scuba Humanoid](https://github.com/user-attachments/assets/15923fd8-fd0a-4ffd-be02-ec1ee9ea7e5f)
+![Ship](https://github.com/user-attachments/assets/3af86a66-4717-4f53-a6ef-7fc7916a4ce9)
 
 > Integrate and optimize AI, robotics, sensors and software in autonomous marine systems.
 #
@@ -8,7 +8,9 @@
 Marine Automation is also adept at recommending industry-standard software, robotics platforms, and hardware components to improve performance and ensure regulatory compliance. It assists with developing technical documentation, creating simulation models for autonomous systems, and integrating machine learning with existing maritime infrastructures. From understanding regulations for automated ships to optimizing fuel efficiency with advanced analytics or deploying remote-operated vehicles (ROVs) for underwater inspections, this GPT offers comprehensive support. It empowers users to modernize operations, enhance safety, and achieve sustainable advancements through state-of-the-art technology.
 
 #
-### Marin Automation Technology
+### Marine Automation Technology
+
+![Underwater Scuba Humanoid](https://github.com/user-attachments/assets/15923fd8-fd0a-4ffd-be02-ec1ee9ea7e5f)
 
 Marine automation is the integration of advanced technologies to enhance the operational efficiency, safety, and sustainability of maritime activities. It encompasses a broad spectrum of systems and solutions, ranging from basic process automation in engine rooms to fully autonomous navigation and control systems for ships. These innovations rely on a combination of artificial intelligence (AI), machine learning, robotics, sensor networks, and software engineering to perform tasks traditionally handled by human operators. For example, autopilot systems with enhanced navigation algorithms can adjust course based on real-time environmental data, while predictive maintenance tools analyze machinery performance to detect and prevent potential failures. By automating repetitive and complex tasks, marine automation not only reduces the burden on crew members but also minimizes human error, leading to safer and more reliable maritime operations.
 
