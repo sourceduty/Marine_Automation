@@ -8,7 +8,7 @@
 Marine Automation is also adept at recommending industry-standard software, robotics platforms, and hardware components to improve performance and ensure regulatory compliance. It assists with developing technical documentation, creating simulation models for autonomous systems, and integrating machine learning with existing maritime infrastructures. From understanding regulations for automated ships to optimizing fuel efficiency with advanced analytics or deploying remote-operated vehicles (ROVs) for underwater inspections, this GPT offers comprehensive support. It empowers users to modernize operations, enhance safety, and achieve sustainable advancements through state-of-the-art technology.
 
 #
-![Marine Automation](https://github.com/user-attachments/assets/5248a0db-ea60-444e-9d6d-c70ba7f5e28c)
+![Underwater Humanoid](https://github.com/user-attachments/assets/b280167d-5a81-41ba-a288-781e37bd0458)
 
 #
 ### Related Links
