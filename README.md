@@ -1,4 +1,5 @@
 ![Ship](https://github.com/user-attachments/assets/3af86a66-4717-4f53-a6ef-7fc7916a4ce9)
+![Military Cargo Ship](https://github.com/user-attachments/assets/1f61b78e-054c-42f3-8280-7b8c9a95fbe3)
 
 > Integrate and optimize AI, robotics, sensors and software in autonomous marine systems.
 #
