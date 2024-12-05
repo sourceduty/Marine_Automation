@@ -14,6 +14,16 @@ Marine Automation is also adept at recommending industry-standard software, robo
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Titanic Simulator](https://github.com/sourceduty/Titanic_Simulator)
+<br>
+[Ship Captain Simulator](https://github.com/sourceduty/Ship_Captain_Simulator)
+<br>
+[Shipping Simulator](https://github.com/sourceduty/Shipping_Simulator)
+<br>
+[Ship Fleet-Asset Simulator](https://github.com/sourceduty/Ship_Fleet-Asset_Simulator)
+<br>
+[Cargowise Simulator](https://github.com/sourceduty/Cargowise_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
